@@ -1,24 +1,15 @@
-/**
- * The following styles get applied both on the front of your site
- * and in the editor.
- *
- * Replace them with your own styles or remove the file completely.
- */
-
-
 .wp-block-capitainewp-innerblocks {
 	border: 3px solid #FF2952;
 	padding: 3em;
 }
 
 .test {
-.block-editor-block-list__layout {
-	display: flex;
-	flex-direction: row;
-}
+	.block-editor-block-list__layout {
+		display: flex;
+		flex-direction: row;
+	}
 
 }
-
 
 .image {
 	width: 100%;

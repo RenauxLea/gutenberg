@@ -26,6 +26,7 @@ function create_block_capitainewp_gut_bases_block_init() {
 	
 	register_block_type( __DIR__ . '/build/block-media' );
 	register_block_type( __DIR__ . '/build/block-media-avec-text' );
+	register_block_type( __DIR__ . '/build/block-media-avec-legende' );
 	
 	// register_block_type( __DIR__ . '/build' );
 }
